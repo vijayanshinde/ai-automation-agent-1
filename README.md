@@ -181,7 +181,7 @@ ai_agent_logs (
 
 ##  Author
 
-**Vijayan Shinde **  
+**Vijayan Shinde**  
 Master’s in Data Analytics & Decision Science  
 RWTH Aachen University  
 
