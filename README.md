@@ -104,8 +104,8 @@ pip install fastapi uvicorn python-dotenv sqlalchemy pyodbc requests
 
 ### **4. Create a `.env` file**
 ```
-GROQ_API_KEY=your_groq_key
-AZURE_SQL_CONNECTION_STRING=Driver={ODBC Driver 18 for SQL Server};Server=tcp:<your-server>.database.windows.net,1433;Database=<your-db>;Uid=<your-user>;Pwd=<your-password>;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;
+GROQ_API_KEY=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
+AZURE_SQL_CONNECTION_STRING=Driver={ODBC Driver 18 for SQL Server};Server=tcp:ai-agent-sql-server.database.windows.net,1433;Database=ai_agent_db;Uid=sqladmin;Pwd=Nmlpazure@1478;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;
 ```
 
 ---
